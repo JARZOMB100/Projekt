@@ -1,0 +1,26 @@
+<root>
+    <name>jan kowalski</name>
+    <age>77</age>
+    <address>
+        <street>187</street>
+        <city>hamburg</city>
+        <state>obojetne</state>
+        <postalCode>777</postalCode>
+    </address>
+    <phoneNumbers>
+        <phoneNumber>
+            <type>domowy</type>
+            <number>222222222</number>
+        </phoneNumber>
+        <phoneNumber>
+            <type>sluzbowy</type>
+            <number>21211222</number>
+        </phoneNumber>
+    </phoneNumbers>
+    <email>jjjj@wp.pl</email>
+    <isEmployed>true</isEmployed>
+    <job>
+        <title>magazynier</title>
+        <company>dhl</company>
+    </job>
+</root>
