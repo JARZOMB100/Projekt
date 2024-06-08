@@ -1,0 +1,17 @@
+name: jan kowalski
+age: 77
+address:
+  street: 187
+  city: hamburg
+  state: obojetne
+  postalCode: 777
+phoneNumbers:
+  - type: domowy
+    number: 222222222
+  - type: sluzbowy
+    number: 21211222
+email: jjjj@wp.pl
+isEmployed: true
+job:
+  title: magazynier
+  company: dhl
